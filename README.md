@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=1000&color=F7F7F7&background=000000BF&center=true&vCenter=true&width=435&lines=Hi+!%F0%9F%91%8B%2C+I'm+Ali+AKA+(X%C3%B8ri);Future+AI%2FML+%26+Security+Engineer;Passionate+About+Tech+LOL;Sharing+My+Projects+%26+Ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Science+Gothic&weight=450&pause=1000&color=F7F7F7&background=000000BF&center=true&vCenter=true&width=870&height=100&lines=Hi+!%F0%9F%91%8B%2C+I'm+Ali+AKA+(X%C3%B8ri);Future+AI%2FML+%26+Security+Engineer;Passionate+About+Tech+LOL;Sharing+My+Projects+%26+Ideas)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
