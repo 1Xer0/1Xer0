@@ -7,11 +7,6 @@
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0xe.r1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-abdullah-9a3288288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xori8431@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=1Xer0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=1Xer0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1Xer0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1Xer0&theme=calm&no-frame=true&no-bg=false&margin-w=4)
 
